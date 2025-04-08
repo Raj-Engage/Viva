@@ -17,7 +17,7 @@ search.appverid:
 description: "Learn more about working with Microsoft Entra B2B guests in Viva Engage communities."
 ---
 
-# Work with Microsoft Entra B2B guests in Viva Engage communities
+# Work with Microsoft Entra B2B guests in Viva Engage communities:
 
 The Viva Engage guest feature allows organizations to call in experts such as vendors, suppliers, or consultants from outside the organization to supercharge collaboration. Viva Engage networks aligned to Native Mode use the Microsoft Entra Business-Business (Microsoft Entra B2B) guest framework to power guests. Microsoft Entra B2B is a secure, compliant external collaboration framework. Many apps in the Microsoft 365 suite use Microsoft Entra ID (for example, Microsoft SharePoint, Microsoft Outlook, and Microsoft Teams).
 
